@@ -205,8 +205,8 @@ export default function RootLayout({
     <html lang="hi" suppressHydrationWarning>
       <head>
         <link rel="canonical" href="https://indiaindonesiavisa.online" />
-        <meta name="geo.region" content="ID" />
-        <meta name="geo.placename" content="Bali, Indonesia" />
+        <meta name="geo.region" content="IN" />
+        <meta name="geo.placename" content="India" />
         <meta name="author" content="Indonesian Visas Agency" />
         <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
 
